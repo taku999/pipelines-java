@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/bell999/AZ400review/_apis/build/status%2Ftaku999.pipelines-java?branchName=main)](https://dev.azure.com/bell999/AZ400review/_build/latest?definitionId=67&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
